@@ -1,15 +1,14 @@
 # Welcome! I'm Rimon Babu 👋  
 **Professional WordPress Developer**
 
-I specialize in creating responsive, visually appealing, and highly functional websites. With over **5 years of experience**, I have worked with a variety of clients, delivering bespoke solutions to meet their business needs. My focus is on utilizing the power of **WordPress** and **front-end development** to craft websites that not only look great but also perform efficiently.
-
+I specialize in creating responsive, visually appealing, and highly functional websites. With over **5 years of experience**, I have worked with various clients, delivering bespoke solutions to meet their brands and business needs.
 ---
 
 ## 🔧 Skills & Expertise:
 
 ### Web Development:
 - **WordPress**: Expertise in popular themes like Astra, Divi, OceanWP, and GeneratePress etc.  
-- **Elementor**: Proficient with Elementor Pro and it's addons like Essential Addons, Ultimate Addons, and more to create dynamic pages.  
+- **Elementor**: Proficient with Elementor Pro and its addons like Essential Addons, Ultimate Addons, and more to create dynamic pages.  
 - **Crocoblock**: Skilled in using Crocoblock plugins (JetEngine, JetElements, JetBlocks, JetMenu) for advanced WordPress functionalities.  
 - **WooCommerce**: Integrated e-commerce solutions, including custom functionalities for subscriptions, memberships, and product bundles.  
 - **Frontend Development**: Strong command over **HTML**, **CSS**, **Bootstrap**, with foundational knowledge in **JavaScript** and **PHP**.  
@@ -21,7 +20,7 @@ I have a keen eye for design and always ensure the UX/UI is engaging, intuitive,
 
 ---
 
-## 🌟 Key Projects:
+## 🌟 Recent Projects:
 I take pride in my work and have collaborated on various successful projects. Here are a few examples:
 - [Interest Navigator](https://interestnavigator.io/)  
 - [Oak Food](https://oakfood.nl/)  
